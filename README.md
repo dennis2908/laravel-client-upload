@@ -38,5 +38,7 @@ Upload process :
 <img width="1919" height="461" alt="image" src="https://github.com/user-attachments/assets/dde7319c-cf7f-40a7-9b71-90803dc59f8a" />
 
 Upload succeed :
-
 <img width="1915" height="594" alt="image" src="https://github.com/user-attachments/assets/49c0f08a-935b-4811-a576-0305fb553f1c" />
+
+New file added :
+<img width="1152" height="649" alt="image" src="https://github.com/user-attachments/assets/e63b745f-ce04-47b3-92a9-5f188e44e66b" />
