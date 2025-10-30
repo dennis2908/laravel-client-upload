@@ -33,3 +33,6 @@ It will register automatically and create new Client ID
 - Change client_6902c4af1e75a to new Client ID from bash "client.php" 
 - Run the POST Server-Request-Upload
 - If works, then the system wll automatically upload file_to_download.txt to storage\app\client_uploads
+
+Upload process :
+<img width="1919" height="461" alt="image" src="https://github.com/user-attachments/assets/dde7319c-cf7f-40a7-9b71-90803dc59f8a" />
