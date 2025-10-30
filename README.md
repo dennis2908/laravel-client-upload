@@ -37,6 +37,9 @@ It will register automatically and create new Client ID
 Upload process :
 <img width="1919" height="461" alt="image" src="https://github.com/user-attachments/assets/dde7319c-cf7f-40a7-9b71-90803dc59f8a" />
 
+API Request to upload from Postman :
+<img width="1487" height="638" alt="image" src="https://github.com/user-attachments/assets/bf5f7765-4ee3-4f38-b557-8f6a1aba0ff7" />
+
 Upload succeed :
 <img width="1915" height="594" alt="image" src="https://github.com/user-attachments/assets/49c0f08a-935b-4811-a576-0305fb553f1c" />
 
