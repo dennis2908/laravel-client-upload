@@ -4,7 +4,7 @@ Using PHP Laravel, Composer, Postman
 
 - git clone https://github.com/dennis2908/laravel-client-upload
 
-- download file_to_download.txt (100 mb) from :
+- download file_to_download.txt (100 mb+) from :
 
   https://drive.google.com/file/d/1MqY5jwXdJt5fHFR66IWo5SSBWC2K_p_0/view?usp=sharing
 
