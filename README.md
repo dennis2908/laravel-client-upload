@@ -1,5 +1,5 @@
 # Laravel Client Request Uploader
-Using PHP Laravel, Composer, Postman
+Using PHP, Laravel, Composer, Postman
 ## Setup
 
 - git clone https://github.com/dennis2908/laravel-client-upload
