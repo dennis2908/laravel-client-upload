@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "45a7e132-83c5-42d5-82db-3f72c3457157",
+		"name": "Server-Request-Upload",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13814383"
+	},
+	"item": [
+		{
+			"name": "Server-Request-Upload",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"apiKey\": \"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\"\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8000/api/request-download/client_6902c4af1e75a",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"request-download",
+						"client_6902c4af1e75a"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
